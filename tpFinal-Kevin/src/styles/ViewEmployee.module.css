@@ -1,0 +1,37 @@
+.viewEmployeeContainer {
+    background-color: #209cee;
+    border: 4px solid #000;
+    padding: 20px;
+    max-width: 400px;
+    margin: 50px auto;
+    font-family: 'Press Start 2P', cursive;
+    color: #fff;
+    box-shadow: 10px 10px 0 #000;
+}
+
+.employeeDetails {
+    margin-top: 20px;
+}
+
+.employeeDetails p {
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+.backButton {
+    display: inline-block;
+    background-color: #e75a10;
+    border: 2px solid #000;
+    color: #fff;
+    padding: 10px 20px;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 14px;
+    text-decoration: none;
+    margin-top: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.backButton:hover {
+    background-color: #ff7f27;
+}
